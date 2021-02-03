@@ -1,0 +1,29 @@
+x=13
+y=5
+print(x/y)
+print(x//y)
+print(x%y)
+print(x**y)
+print(x*y)
+print(x+y)
+print(x-y)
+x="first"
+y="last"
+print("first"+"last")
+x=13
+y=5
+print(x>y)
+print(x>=y)
+print(x<y)
+print(x<=y)
+print(x==y)
+print(x!=y)
+x="python"
+y="operators"
+print("python">="operators")
+x="man"
+y="woman"
+print(x is y)
+print(x is not y)
+print(x in y)
+print(x not in y)
